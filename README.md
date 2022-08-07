@@ -16,20 +16,73 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 - ♟ I like playing chess. `1. e4` and `1... c5` best by test.
+#### 📖 Favourite Books:
+  - The Sound and The Fury by William Faulkner
+  - Company by Samuel Beckett
+  - One Hundred Years of Solitude by Gabriel García Márquez
+  - Blindness by Saramago
+  - Short Stories by Robertos Burgos Cantor
+  
+#### 🎥 Favourite Movies/Visual Media:
+  - Doctor Who
+  - Magnolia
+  - Paris, Texas
+  - Chidren Of Men
+  
 
-### Languages and Tools:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="32" height="32" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="32" height="32" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="32" height="32" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="32" height="32" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="32" height="32" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="32" height="32" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="32" height="32" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="32" height="32" /> <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="32" />--> 
+#### ⚙️ OS, editor & other preferences:
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="32" height="32" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="32" height="32" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="32" height="32"/>
+</div>
 
-### Stats
+#### ➡️ Currently Working With:
+<div>
+<img src="https://lerna.js.org/images/lerna-logo-light.svg" alt="lerna" width="32" height="32" />
+<img src="https://nx.dev/images/icons/nx.svg" alt="nx" width="32" height="32" />
+<img src="https://rollupjs.org/logo.svg" alt="rollup" width="32" height="32" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="babel" width="32" height="32" />
+</div>
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  alt="react" width="32" height="32" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="32" height="32" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="32" height="32" />
+</div>
+<div>
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"  alt="mongodb" width="32" height="32" />-->
+</div>
+
+#### ➡️ Other stuff I've learned/used:
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="32" height="32" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="32" height="32"/>
+
+</div>
+
+#### 🌱 Currently Learning:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" width="32" height="32" />
+
+#### 🔭 In the future I wanna learn...
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width="32" height="32" />
+</div>
+          
+### 📊 Stats
 
 ![Carcamo's stats](https://github-readme-stats.vercel.app/api?username=luis721&show_icons=true&count_private=true&show_owner=true&theme=graywhite)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis721&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Currently listening to...
+### 🎶 Currently listening to...
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12145825484&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=12145825484&redirect=true)
 
 
